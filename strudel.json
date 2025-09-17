@@ -490,7 +490,7 @@
         "bio_perc/perc_xylo.wav",
         "bio_perc/perc_yodelling_mallet.wav"
     ],
-    "_base": "https://raw.githubusercontent.com/SutterChristian/samples/main/",
+    "_base": "https://raw.githubusercontent.com/SutterChristian/bio/main/",
     "bio_ir": [
         "bio_ir/ir_Amin_blur.wav",
         "bio_ir/ir_Amin_pluck.wav",
